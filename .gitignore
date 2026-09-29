@@ -1,0 +1,36 @@
+# Unity generated data, also when the project is nested under UnityProject.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.vs/
+.idea/
+.utmp/
+.gradle/
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+*.keystore
+*.jks
+*.log
+sysinfo.txt
+
+# Machine-local Meta Dev Agent connection settings (may contain an access token).
+/UnityProject/Assets/Resources/DevAgentSettings.asset
+/UnityProject/Assets/Resources/DevAgentSettings.asset.meta
+
+# Preserve Assets/*.meta, Packages, ProjectSettings and baked scene data.
+# Raw scans stay outside Assets; commit only this folder's instructions.
+/SourceScans/*
+!/SourceScans/README.md
